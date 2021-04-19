@@ -1,0 +1,270 @@
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+E:\NHTI\Courses\CPET240\DesignPatterns(Layered)\Fall2019\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+T:\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+T:\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojResolveAssemblyReference.cache
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+D:\Fall2019Gather\CP240Fall2019\Labs\Lab04\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+E:\Windows Programming\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab Examples\Lab04\Lab04StarterProj\FullStackBasic\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab04\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab05\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\Desktop\Lab06\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\Desktop\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab06\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\ServiceBus\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Net.Http.Formatting.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Net.Http.Formatting.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Lab08\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\bin\Debug\netstandard2.0\restfulRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\ServiceBus\obj\Debug\netstandard2.0\ServiceBus.pdb

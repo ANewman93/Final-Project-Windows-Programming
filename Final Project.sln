@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{E6236BBD-1D51-4EBB-ADBA-9829300E3409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceBus", "ServiceBus\ServiceBus.csproj", "{F8FC1270-E0B5-47AE-9BDA-4E1D431AF177}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A79A786B-2A02-4BD6-AC27-1361DA4B7DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WindowsFormsApp1\WindowsFormsApp1\WinFormClient.csproj", "{D4F8AEB7-3208-4196-867C-ADA41BB7676A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restfulRepo", "restfulRepo\restfulRepo.csproj", "{3B12EC9C-01BC-4ED8-B54A-496A61484D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FA8E814C-773A-4B6C-8343-263DC58860FF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A} = {8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}
+		{E6236BBD-1D51-4EBB-ADBA-9829300E3409} = {E6236BBD-1D51-4EBB-ADBA-9829300E3409}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6236BBD-1D51-4EBB-ADBA-9829300E3409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6236BBD-1D51-4EBB-ADBA-9829300E3409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6236BBD-1D51-4EBB-ADBA-9829300E3409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6236BBD-1D51-4EBB-ADBA-9829300E3409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACF2975-66FB-4606-B2ED-AAB63F71CD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FC1270-E0B5-47AE-9BDA-4E1D431AF177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FC1270-E0B5-47AE-9BDA-4E1D431AF177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FC1270-E0B5-47AE-9BDA-4E1D431AF177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FC1270-E0B5-47AE-9BDA-4E1D431AF177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F8AEB7-3208-4196-867C-ADA41BB7676A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F8AEB7-3208-4196-867C-ADA41BB7676A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F8AEB7-3208-4196-867C-ADA41BB7676A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F8AEB7-3208-4196-867C-ADA41BB7676A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B12EC9C-01BC-4ED8-B54A-496A61484D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B12EC9C-01BC-4ED8-B54A-496A61484D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B12EC9C-01BC-4ED8-B54A-496A61484D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B12EC9C-01BC-4ED8-B54A-496A61484D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8E814C-773A-4B6C-8343-263DC58860FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8E814C-773A-4B6C-8343-263DC58860FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8E814C-773A-4B6C-8343-263DC58860FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8E814C-773A-4B6C-8343-263DC58860FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AA0DE9B-F638-4E0C-8901-D111A7E3B091}
+	EndGlobalSection
+EndGlobal

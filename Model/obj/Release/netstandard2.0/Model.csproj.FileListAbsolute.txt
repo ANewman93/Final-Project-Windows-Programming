@@ -1,0 +1,129 @@
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab07\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\Documents\Lab08\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Lab08\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Configuration.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\System.Security.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.deps.json
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\bin\Release\netstandard2.0\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\Model\obj\Release\netstandard2.0\Model.pdb

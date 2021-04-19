@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WebAPI\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WebAPI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WebAPI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

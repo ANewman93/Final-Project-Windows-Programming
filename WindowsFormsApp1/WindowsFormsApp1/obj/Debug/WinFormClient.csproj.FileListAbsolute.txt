@@ -1,0 +1,172 @@
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addAuthor.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.editAuthor.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addAuthor.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.editAuthor.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addAuthor.resources
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.editAuthor.resources
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\Documents\Lab08\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\Documents\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Book_Overview.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Book_Overview.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlaceOrderForm.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookList.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookQuantityForm.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookList.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookQuantityForm.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlaceOrderForm.resources
+C:\Users\newma\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Model.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Repositories.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\restfulRepo.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ServiceBus.pdb
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Book_Overview.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookList.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BookQuantityForm.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlaceOrderForm.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormClient.csproj.CopyComplete
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andrew Newman\OneDrive\Documents\School Documents\Previous Semesters\Fall Semester 2019\Windows Programming\Final Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
